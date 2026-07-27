@@ -1,8 +1,12 @@
 target/
+!target/allure-chrome-results
+!target/allure-yandex-results
 !.mvn/wrapper/maven-wrapper.jar
 !**/src/main/**/target/
 !**/src/test/**/target/
 .kotlin
+
+/src/test/resources
 
 ### IntelliJ IDEA ###
 .idea/modules.xml
